@@ -20,8 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="89833865-0153-4e07-bf08-7d369f855ce5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/day01/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +74,10 @@
       <screen x="83" y="34" width="3755" height="1877" />
     </state>
     <state x="1468" y="724" width="975" height="495" key="#com.intellij.fileTypes.FileTypeChooser/83.34.3755.1877@83.34.3755.1877" timestamp="1609667720404" />
+    <state x="1579" y="536" width="742" height="872" key="FileChooserDialogImpl" timestamp="1609859739208">
+      <screen x="83" y="34" width="3755" height="1877" />
+    </state>
+    <state x="1579" y="536" width="742" height="872" key="FileChooserDialogImpl/83.34.3755.1877@83.34.3755.1877" timestamp="1609859739208" />
     <state x="1167" y="399" key="SettingsEditor" timestamp="1609667603328">
       <screen x="83" y="34" width="3755" height="1877" />
     </state>
